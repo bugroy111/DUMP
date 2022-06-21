@@ -1,0 +1,5 @@
+/vendor/lib/modules/lcd.ko:
+/vendor/lib/modules/br_netfilter.ko:
+/vendor/lib/modules/backlight.ko:
+/vendor/lib/modules/ansi_cprng.ko:
+/vendor/lib/modules/generic_bl.ko: /vendor/lib/modules/backlight.ko
