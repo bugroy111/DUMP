@@ -12,3 +12,5 @@
 - brand: Lenovo
 - branch: karatep-user-7.0-NRD90N-K53_S228_171114_ROW-release-keys
 - repo: lenovo_karatep_dump
+
+# Extracted using [DUMPYARA](https://github.com/AndroidDumps/dumpyara)
