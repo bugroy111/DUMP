@@ -12,3 +12,5 @@
 - brand: Lenovo
 - branch: karate-user-7.0-NRD90N-K33_S231_171114_ROW-release-keys
 - repo: lenovo_karate_dump
+
+# Extracted using [DUMPYARA](https://github.com/AndroidDumps/dumpyara)
